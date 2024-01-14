@@ -79,7 +79,7 @@
                     <li><a href="#">Developers</a></li>
                     <li><a href="#">Settings</a></li>
                     <li>© 2021 - Twitter Clone</li>
-                    <li style="color:#1DA1F2;"><b>- Developed By Amin Yasser -</b></li>
+                    <li style="color:#1DA1F2;"><b>- Developed By DNX EMPIRE -</b></li>
                 </ul>
             </footer>
         </main>
