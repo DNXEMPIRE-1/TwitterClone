@@ -550,7 +550,7 @@ INSERT INTO `tweets` (`post_id`, `status`, `img`) VALUES
 (729, 'I just wanna be nice, but some people are so ANNOYING.', NULL),
 (730, 'The need for forgiveness is an illusion. There is nothing to forgive.', NULL),
 (731, '', 'tweet-61dfd3ee910a8.png'),
-(732, 'This is a second demo tweet with mention too! @ralph @wilburpotter @codeastro', NULL),
+(732, 'This is a second demo tweet with mention too! @ralph @wilburpotter', NULL),
 (733, 'A post with Sample Image.', 'tweet-61dffddac3a4c.jpg'),
 (734, 'Here\'s a tweet with hashtags. #php #mysql #js #explore #fun', NULL);
 
@@ -578,7 +578,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `username`, `email`, `password`, `name`, `img`, `imgCover`, `bio`, `location`, `website`) VALUES
-(2, 'codeastro', 'astro@mail.com', 'e10adc3949ba59abbe56e057f20f883e', 'Astro', 'user-61def28fce0d7.jpg', 'cover.png', 'Well, nothing...', 'South Dakota', 'https://codeastro.com/'),
+(2, 'dnxempire', 'dnx@mail.com', 'e10adc3949ba59abbe56e057f20f883e', 'dnx', 'user-61def28fce0d7.jpg', 'cover.png', 'Well, nothing...', 'South Dakota', ''),
 (5, 'matholiver', 'oliver@mail.com', 'e10adc3949ba59abbe56e057f20f883e', 'Matthew Oliver', 'user-61dee95ac1f87.jpg', 'cover.png', 'I make money in my sleep', '', ''),
 (25, 'itselisagrnt', 'elisag@mail.com', 'e10adc3949ba59abbe56e057f20f883e', 'Elisa Grant', 'user-61deea3b7c7b3.jpg', 'cover.png', 'Midnight snacker', '', ''),
 (27, 'viodaw', 'dawson@mail.com', 'e10adc3949ba59abbe56e057f20f883e', 'Viola Dawson', 'default.jpg', 'cover.png', 'Recovering cake addict', '', ''),
